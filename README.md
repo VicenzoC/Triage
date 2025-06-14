@@ -45,7 +45,7 @@ João Victor Alvarenga RM: 93752
 3. Navegue pelo site através do menu de navegação
 
 ## Status do Projeto
-Em desenvolvimento - Versão 1.0
+Em desenvolvimento - Versão 2.0
 
 ---
 © 2025 Projeto TRIAGE
