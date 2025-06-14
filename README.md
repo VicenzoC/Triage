@@ -23,6 +23,7 @@ O TRIAGE é um totem robô interativo desenvolvido para transformar a experiênc
 ├── sobre.html
 ├── funcionalidades.html
 ├── contato.html
+├── apresentacao.html
 ├── style/
 │   └── index.css
 ├── script/
